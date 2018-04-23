@@ -3,7 +3,7 @@
 //
 
 #include "boolean.h"
-BOOL guess_num();
+extern BOOL guess_num();
 
 
 
